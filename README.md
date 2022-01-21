@@ -1,12 +1,11 @@
-# 
-<p align="center">𝓣𝓻𝓪̂̀𝓷 𝓝𝓰𝓸̣𝓬 𝓣𝓲𝓮̂́𝓷</p>
+<p align="center">Nguyễn Anh Tú</p>
 <p align="center">
    <a href="https://github.com/NAnhTu">
    <img src="https://avatars.githubusercontent.com/u/58081642" width = "200" alt="Anh Tú">
    </a>
 </p>
 <h2 align="center">About me</h2>
-## 
+
 <p align="center">You can reach me at</p>
 <p align="center">
    <a href="https://www.facebook.com/tuna.0612">
@@ -25,7 +24,7 @@
    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tiktok-icon.svg" alt="TikTok" height="30" width="30">
    </a>
 </p>
-## 
+
 <p align="center">What I use :alien:</p>
 <table align="center">
    <tbody>
@@ -95,41 +94,43 @@
       </tr>
    </tbody>
 </table>
-## 
+
 <p align="center">Visitor's count :eyes:</p>
 <p align="center"><img src="https://profile-counter.glitch.me/{NAnhTu}/count.svg" alt="NAnhTu :: Visitor's Count" /></p>
-## 
+
 <p align="center">GitHub Profile Trophy 🏆</p>
 <p align='center'>
    <img src="https://github-profile-trophy.vercel.app/?username=NAnhTu&theme=tokyonight&row=2&column=4">
 </p>
-## 
+
 <p align="center">Top langs :tongue:</p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAnhTu&langs_count=10&theme=tokyonight&layout=compact" alt="NAnhTu :: Top Langs" /></p>
-## 
+
 <p align="center">Profile stats :musical_keyboard:</p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NAnhTu&show_icons=true&theme=tokyonight" alt="NAnhTu :: Profile Stats" /></p>
-## 
-<p align="center">Repository pin 📌</p>
+
+<!-- <p align="center">Repository pin 📌</p>
 <p align="center">	
-   ##<a href="https://github.com/ngoctienTNT/GiveLoveTNT">
-   ##	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=GiveLoveTNT&theme=tokyonight" alt="ngoctienTNT" />
-   ##</a>
+   <a href="https://github.com/ngoctienTNT/GiveLoveTNT">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=GiveLoveTNT&theme=tokyonight" alt="ngoctienTNT" />
+   </a>
 </p>
-## 
+
 <p align="center">Github Contributions 📈</p>
 <br>
 <p align='center'>
-   #<img src="https://activity-graph.herokuapp.com/graph?username=NAnhTu&theme=react-dark&hide_border=true">
+   <img src="https://activity-graph.herokuapp.com/graph?username=NAnhTu&theme=react-dark&hide_border=true">
 <p>
 <hr>
 <br>
-## 
+
 <p align="center">Just a snake eating my contributions 🐍</p>
 <p align='center'>
-   #<img src="https://github.com/ngoctienTNT/NAnhTu/blob/output/github-contribution-grid-snake.svg">
+   <img src="https://github.com/ngoctienTNT/NAnhTu/blob/output/github-contribution-grid-snake.svg">
 </p>
 <hr>
 <br>
-##
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
+<p align="center">
+   <img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500">
+</p> -->
