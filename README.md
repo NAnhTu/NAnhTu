@@ -38,7 +38,7 @@
          <td width="20%" align="center">
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
             <span>Javascript</span><br><br><br>
-            <img height="64px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+            <img height="64px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
             </a>
          </td>
          <td width="20%" align="center">
